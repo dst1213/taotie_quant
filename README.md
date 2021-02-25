@@ -2,4 +2,4 @@
 awesome quant for stock 量化资料大集合
 
 ### Stock Repos
-- [x] ✨ [StockSimulatorFlaskApp](https://github.com/ZhijingEu/StockSimulatorFlaskApp)
+- [ ] ✨ [StockSimulatorFlaskApp](https://github.com/ZhijingEu/StockSimulatorFlaskApp)
