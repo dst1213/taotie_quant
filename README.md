@@ -1,7 +1,7 @@
 # stock_awesome_quant
 awesome quant for stock 【quant之友】
 - 量化资料大集合（代码、资料），他山之石可以攻玉，持续搜罗ing。
-- 涵盖股票（A股、美股等）、基金、加密货币等领域。
+- 涵盖股票（A股、美股等）、基金、期货、加密货币等领域。
 - 欢迎提供稿源、建议。
 
 
@@ -9,8 +9,10 @@ awesome quant for stock 【quant之友】
 - [ ] ✨ [awesome-quant](https://github.com/thuquant/awesome-quant) 【中国的Quant相关资源索引】
 
 
+
 ### Stock Repos 【股票】
 - [ ] ✨ [StockSimulatorFlaskApp](https://github.com/ZhijingEu/StockSimulatorFlaskApp)
+
 
 
 ### Fund Repos 【基金】
@@ -23,8 +25,10 @@ awesome quant for stock 【quant之友】
 - [ ] ✨ [leek-fund](https://github.com/LeekHub/leek-fund) 【韭菜盒子——VSCode 里也可以看股票 & 基金实时数据】
 
 
+
 ### Cryptocurrency Repos 【加密货币】
 - [ ] ✨ [binance-trade-bot](https://github.com/edeng23/binance-trade-bot) 【Automated cryptocurrency trading bot】
+
 
 
 ### Skill Repos 【资料集合】
