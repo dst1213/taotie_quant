@@ -11,7 +11,7 @@ Taotie Quant 【饕餮quant】
 
 
 ### Stock Repos 【股票】
-- [ ] ✨ [StockSimulatorFlaskApp](https://github.com/dst1213/StockSimulatorFlaskApp)
+- [ ] ✨ [StockSimulatorFlaskApp](https://github.com/dst1213/StockSimulatorFlaskApp) 【股价预测之统计方法，Flask版】
 
 
 
