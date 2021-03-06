@@ -1,5 +1,5 @@
-# stock_awesome_quant
-awesome quant for stock 【饕餮quant】
+# Taotie Quant
+Taotie Quant 【饕餮quant】
 - 量化资料大集合（代码、资料），他山之石可以攻玉，持续搜罗ing。
 - 涵盖股票（A股、美股等）、基金、期货、加密货币等领域。
 - 欢迎提供稿源、建议。
