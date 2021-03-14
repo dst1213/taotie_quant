@@ -12,6 +12,9 @@ Taotie Quant 【饕餮quant】
 
 ### Stock Repos 【股票】
 - [ ] ✨ [StockSimulatorFlaskApp](https://github.com/dst1213/StockSimulatorFlaskApp) 【股价预测之统计方法，Flask版】
+- [ ] ✨ [easytrader](https://github.com/shidenggui/easytrader) 【基金、股票自动程序化交易】
+- [ ] ✨ [easyquant](https://github.com/shidenggui/easyquant) 【股票量化框架，支持行情获取以及交易】
+- [ ] ✨ [easyquotation](https://github.com/shidenggui/easyquotation) 【实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情】
 
 
 
